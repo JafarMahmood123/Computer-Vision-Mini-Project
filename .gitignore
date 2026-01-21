@@ -1,0 +1,90 @@
+# Files and directories created by pub
+.dart_tool/
+.packages
+
+# Flutter/Dart/Pub related
+# Libraries should not include pubspec.lock, per https://dart.dev/guides/libraries/private-files#pubspeclock
+pubspec.lock
+
+# Flutter generated files
+.dart_tool/
+.packages
+build/
+
+# Android related
+android/app/build/
+android/app/proguard-rules.pro
+android/gradle.properties
+android/.gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/.idea/
+android/.vscode/
+
+# iOS related
+ios/.symlinks
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/ServiceDefinitions.json
+ios/Flutter/Flutter-Debug.xcconfig
+ios/Flutter/Flutter-Release.xcconfig
+ios/.generated/
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+ios/Pods/
+
+# macOS related
+macos/Flutter/ephemeral/
+macos/Flutter/Flutter-Debug.xcconfig
+macos/Flutter/Flutter-Release.xcconfig
+macos/.symlinks
+macos/.flutter-plugins
+macos/.flutter-plugins-dependencies
+
+# Linux related
+linux/.flutter-plugins
+linux/.flutter-plugins-dependencies
+linux/build/
+
+# Windows related
+windows/.flutter-plugins
+windows/.flutter-plugins-dependencies
+windows/build/
+
+# Web related
+web/.flutter-plugins
+web/.flutter-plugins-dependencies
+web/build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+
+# Additional files
+*.tmp
+*.bak
